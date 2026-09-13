@@ -21,7 +21,8 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: "3MigoSmart — Global Deals Hub",
   description:
-    "3MigoSmart connects you to trusted global marketplaces — Amazon, AliExpress, eBay, Noon and more — with payment and delivery guarantees on every deal.",
+      "3MigoSmart connects you to trusted global marketplaces — Amazon, AliExpress, eBay, Noon and more — with payment and delivery guarantees on every deal.",
+  verification: { google: "gQAarYceoOYFdTM0O2N1nw_dd1pIsnxucZA4HoLCI8Y" },
 };
 
 export default function RootLayout({
